@@ -24,10 +24,9 @@ pkgtool <package-name>
 
 ## 🗺️ Feature Roadmap
 
-[ ] Batch operations for installing or removing multiple packages at once.
-[ ] Support for other distributions and package managers.
-[ ] Distrobox support.
-[ ] Fuszzy matching.
+- [ ] Batch operations for installing or removing multiple packages at once.
+- [ ] Support for other distributions and package managers.
+- [ ] Distrobox support.
 
 ---
 
