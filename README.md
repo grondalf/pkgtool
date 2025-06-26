@@ -1,6 +1,6 @@
 # 🔧 PKGTOOL - A Fedora Package Manager
 
-*A barebones CLI tool for managing packages on Fedora Linux with DNF and Flatpak support made for personal use.*
+*A simple CLI tool for managing packages on Fedora Linux with DNF and Flatpak support made for personal use.*
 
 ## 📦 Features
 - Installs either DNF (Fedora) or Flatpak packages.
