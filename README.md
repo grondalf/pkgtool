@@ -3,7 +3,7 @@
 *A WIP CLI tool, made for personal use, for managing packages on Fedora Linux with DNF and Flatpak.*
 
 ## Disclaimer
-The script was developed with AI assistance to optimize functionality and user experience. It may contain bugs and it is not production ready. It is being developed for educational purposes.
+This script is being developed for educarional pursposes with AI assistance to optimize functionality and user experience. It may contain bugs so use with caution.
 
 ## Features
 - Installs either DNF (Fedora) or Flatpak packages.
