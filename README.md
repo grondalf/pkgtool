@@ -1,6 +1,6 @@
 # PKGTOOL - A WIP Package Manager Wrapper
 
-*A simple CLI tool for managing packages on Fedora Linux with DNF and Flatpak support made for personal use.*
+*A simple CLI tool, made for personal use, for managing packages on Fedora Linux with DNF and Flatpak.*
 
 ## Features
 - Installs either DNF (Fedora) or Flatpak packages.
