@@ -1,4 +1,4 @@
-# 🔧 PKGTOOL - A Fedora Package Manager (WIP)
+# 🔧 PKGTOOL (WIP)
 
 *A simple CLI tool for managing packages on Fedora Linux with DNF and Flatpak support made for personal use.*
 
